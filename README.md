@@ -1,6 +1,8 @@
-# Google-Context-Menu-Edge
+# Startpage-Context-Menu-Edge
 
-UPDATE: Since now edge supports Google search feature if the default search engine is Google, this extension is no longer needed for *most* cases. However, I will leave the repo unarchived in case anyone is interested in looking through the code.
+UPDATE: I (rjs) rebased the google context search to startpage (ref: https://www.winhelponline.com/blog/edge-search-with-google-context-menu-extension/).  Very minimal changes besides that.
+
+UPDATE: Since now edge supports Startpage search feature if the default search engine is Startpage, this extension is no longer needed for *most* cases. However, I will leave the repo unarchived in case anyone is interested in looking through the code.
 
 To Install this extension on MS Edge, follow the steps below:
 
@@ -10,8 +12,8 @@ Go to about:flags in edge and check "Enable extension developer features (this m
 
 Click on the three dots menu (...) go to extension --> Load extension
 
-Select the folder you just downloaded - "Google Search" (not the folder with readme, just the folder inside it)
+Select the folder you just downloaded - "Startpage Search" (not the folder with readme, just the folder inside it)
 
 Turn on the extension, Restart the browser, and click "Turn on Anyway" when prompted at the bottom
 
-If you face any trouble, contact me here: https://www.reddit.com/message/compose/?to=3DIndian
+If you face any trouble, contact me here: (FIXME: original author's contact) https://www.reddit.com/message/compose/?to=3DIndian
