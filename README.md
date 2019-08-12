@@ -2,6 +2,8 @@
 
 UPDATE: I (rjs) rebased the google context search to startpage (ref: https://www.winhelponline.com/blog/edge-search-with-google-context-menu-extension/).  Very minimal changes besides that.
 
+---
+
 UPDATE: Since now edge supports Startpage search feature if the default search engine is Startpage, this extension is no longer needed for *most* cases. However, I will leave the repo unarchived in case anyone is interested in looking through the code.
 
 To Install this extension on MS Edge, follow the steps below:
